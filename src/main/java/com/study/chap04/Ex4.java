@@ -1,4 +1,4 @@
-package com.study.chap01;
+package com.study.chap04;
 
 public class Ex4 {
     public static void main(String[] args) {

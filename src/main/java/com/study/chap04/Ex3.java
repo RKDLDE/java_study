@@ -1,4 +1,4 @@
-package com.study.chap01;
+package com.study.chap04;
 
 /* 4-3.1+(1+2)+(1+2+3)+(1+2+3+4)+...+(1+2+3+...+10)의 결과 */
 public class Ex3 {
