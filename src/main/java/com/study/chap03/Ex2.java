@@ -1,6 +1,6 @@
 package com.study.chap03;
 
-/* 사과를 담는데 필요한 바구니의 수를 구하는 코드 */
+/* 3-2. 사과를 담는데 필요한 바구니의 수를 구하는 코드 */
 public class Ex2 {
     public static void main(String[] args) {
         int numOfApples = 123;  // 사과 개수
