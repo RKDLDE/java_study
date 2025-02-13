@@ -41,6 +41,6 @@
 
 
 ## 📚 참고 자료
-- [자바의 정석 깃허브]([https://book.naver.com/bookdb/book_detail.nhn?bid=15029207](https://github.com/castello/javajungsuk_basic))
+- [자바의 정석 깃허브](https://github.com/castello/javajungsuk_basic)
 - [Java 공식 문서](https://docs.oracle.com/en/java/)
 
